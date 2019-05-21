@@ -1,0 +1,8 @@
+name: Json
+description: This is to test JSON text formatting! <3
+version: 1.0-TEST
+main: com.makotomiyamoto.json.Json
+commands:
+  ShowJson:
+    description: "Show the json thing :3"
+    usage: "/ShowJson"
