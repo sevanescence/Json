@@ -27,7 +27,7 @@ public class ShowJson implements CommandExecutor {
 
         }
 
-        return false;
+        return true;
 
     }
 
